@@ -1,14 +1,6 @@
-@ECHO OFF
+--@ECHO OFF
 
 start "" "%PROGRAMFILES%\LOVE\love" .
-
-LOOPABLE BACKGROUND
-https://img.itch.io/aW1hZ2UvMTA2MTgxLzUwMDkyNC5wbmc=/original/GQSYYq.png
-
-http://www.dafont.com/8bit-wonder.font
-
-
-
 
 function love.load()
 	--logo = love.graphics.newImage("datboi-ohshit.jpg")
